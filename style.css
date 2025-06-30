@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+header, footer {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.integrante {
+  background-color: white;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.integrante h3 {
+  margin-top: 0;
+}
+
+a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  background-color: #003366;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
